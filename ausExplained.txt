@@ -1,0 +1,12 @@
+Open Face:
+Tried open face installed on a google colab, but gave me erros after download: https://colab.research.google.com/gist/jcheong0428/c16146b386ea60fab888b56e8e5ee747/openface_shared.ipynb#scrollTo=BXBkyjI_GqtQ
+Also at https://gist.github.com/jcheong0428/c16146b386ea60fab888b56e8e5ee747
+
+Then, downloaded the 64bit binary of open face. it worked great:
+https://github.com/TadasBaltrusaitis/OpenFace/wiki/Windows-Installation
+
+Right clicked on download models, run with power shell. Waited 5ish minutes
+
+AUs
+https://github.com/TadasBaltrusaitis/OpenFace/wiki/Action-Units
+
