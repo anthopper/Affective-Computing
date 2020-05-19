@@ -1,0 +1,14 @@
+Forced Alignment
+
+Installed htk: https://github.com/jaekookang/p2fa_py3 for library use
+
+Htk login credentials
+kitmartin
+swTuBmA6
+
+export CPPFLAGS=-UPHNALG
+./configure --disable-hlmtools --disable-hslab
+make clean    # necessary if you're not starting from scratch
+make -j4 all
+sudo make -j4 install
+

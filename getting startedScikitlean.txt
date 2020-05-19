@@ -1,0 +1,2 @@
+Getting started with sci-kitleanr predictive modeling
+https://github.com/nuitrcs/Predictive-Modeling-with-Scikit-learn
